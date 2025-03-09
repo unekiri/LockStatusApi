@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hQK8uhXFDZw8xKVJAqEUFsyL5jH9HIINLzBv+PGbEu8=",
+  "Source": "LockStatusApi",
+  "BasePath": "_content/LockStatusApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
