@@ -23,3 +23,4 @@
 /home/unekiri15/LockStatusApi/obj/Debug/net8.0/LockStatusApi.pdb
 /home/unekiri15/LockStatusApi/obj/Debug/net8.0/LockStatusApi.genruntimeconfig.cache
 /home/unekiri15/LockStatusApi/obj/Debug/net8.0/ref/LockStatusApi.dll
+/home/unekiri15/LockStatusApi/obj/Debug/net8.0/LockStatusApi.sourcelink.json
