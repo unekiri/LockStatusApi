@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LockStatusApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24c104837e7eab9763a25500cf2a194ea1f24cbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d8868ca69fd53b540a540ed8411a6f51cc03d2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LockStatusApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LockStatusApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
